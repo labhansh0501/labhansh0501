@@ -1,20 +1,18 @@
 <h1 align="center">Hi there, I'm Lakshya Bhardwaj 👋</h1>
-<h3 align="center">Software Engineer @ TCS | AI/ML · Agentic AI · RAG · LLM Fine-Tuning</h3>
+<h3 align="center">Software Engineer @ TCS Bangalore | Data Science · AI/ML · Agentic AI · RAG · LLM Fine-Tuning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Workflows;Fine-tuning+LLMs+%26+RAG+Pipelines;Full-Stack+Engineer+%7C+MERN+%2B+Next.js;Currently+at+TCS+Bangalore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+TCS+Bangalore;Building+Agentic+AI+%26+RAG+Pipelines;Fine-tuning+LLMs+for+GenAI+Systems;Full-Stack+Dev+with+MERN+%2B+Next.js" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Systems Engineer at Tata Consultancy Services (TCS), Bangalore** (since Feb 2026)
-- 🤖 Working on **Agentic AI workflows, RAG pipelines, and LLM fine-tuning** as part of GenAI transformation projects
-- 🧠 Trained in **Data Science**: Core ML, Deep Learning, Generative AI, and Agentic AI systems
-- 💻 Full-stack background in **MERN**, **Next.js**, **PostgreSQL**, **Python**, and **Docker**
-- ☁️ Building toward **AWS + Azure certifications** (Solutions Architect, AI/ML specialty tracks)
-- 🎯 Goal: Transitioning into an **AI-native / backend engineering role** at a top product company by early 2027
+- 🏢 Working as a **Software Engineer at Tata Consultancy Services (TCS), Bangalore** — since **Feb 12, 2026**
+- 🧠 Trained in **Data Science**, specializing in **AI/ML, Agentic AI, LLM Fine-Tuning, RAG, Core ML, Deep Learning, and Generative AI**
+- 💻 Full-stack skills in **MERN**, **Next.js**, **PostgreSQL**, **Python**, and **Docker**
+- 🎯 Working toward an **AI-native / backend engineering role** at a top product company
 - ⚡ I like learning by building — compilers, desktop apps, automation agents — rather than just reading theory
 
 ---
@@ -26,11 +24,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**AI / ML / GenAI**
+**Data Science / AI / ML / GenAI**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Full-Stack**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -49,7 +47,7 @@
 
 ### 🔥 Currently Building
 
-- 🤝 An automated **job-search agent pipeline** — discovery, evaluation, resume generation, application, and tracking stages
+- 🤖 An automated **job-search agent pipeline** — discovery, evaluation, resume generation, application, and tracking stages
 - 📚 Exploring **Open Knowledge Format (OKF)** as a standardized knowledge layer for RAG/agentic AI systems
 - ☁️ Working through an **8-certification AWS + Azure roadmap** (CLF-C02, AI-900, SAA-C03, AIF-C01, AI-200, MLA-C01, DP-100, DOP-C02, AIP-C01)
 
@@ -57,25 +55,26 @@
 
 ### 📌 Featured Projects
 
-<!-- Update these with your actual repo names/descriptions -->
 | Project | Description |
 |---|---|
-| 🧾 **[Project Name]** | RAG pipeline / agentic AI project — short description here |
-| 💼 **AWS Project Management Tool** | Full-stack app deployed across Amplify, EC2, S3, Lambda, Cognito, Aurora, RDS |
-| 🖥️ **Multi-Calendar Tracker** | Electron desktop app with glassmorphism UI, system tray, persistent storage |
+| ☁️ **AWS Project Management Tool** | Full-stack app deployed across Amplify, EC2, S3, API Gateway, Lambda, VPC, Cognito, Aurora, and RDS |
+| 🖥️ **Multi-Calendar Tracker** | Electron desktop app with glassmorphism UI, system tray support, frameless always-on-top window, and persistent local storage |
+| 🤖 **AI Job-Search Agent Pipeline** | *(in progress)* Multi-stage agentic pipeline for automated job discovery, evaluation, resume generation, and application tracking |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labhansh0501&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labhansh0501&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=labhansh0501&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labhansh0501&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labhansh0501&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labhansh0501&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
+
+> **Note:** If the stats cards above show as broken links instead of images, it's usually the shared `github-readme-stats` instance being rate-limited — not your README. Since you already have a Vercel account, the most reliable fix is deploying your own free instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swapping the URLs above to point to it.
 
 ---
 
