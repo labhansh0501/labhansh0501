@@ -66,15 +66,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labhansh0501&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-kohl-six-33.vercel.app/api?username=labhansh0501&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=labhansh0501&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labhansh0501&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-kohl-six-33.vercel.app/api/top-langs/?username=labhansh0501&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
-> **Note:** If the stats cards above show as broken links instead of images, it's usually the shared `github-readme-stats` instance being rate-limited — not your README. Since you already have a Vercel account, the most reliable fix is deploying your own free instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swapping the URLs above to point to it.
 
 ---
 
