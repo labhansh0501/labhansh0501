@@ -7,6 +7,7 @@
 
 ---
 
+
 ### 🚀 About Me
 
 - 🏢 Working as a **Software Engineer at Tata Consultancy Services (TCS), Bangalore** — since **Feb 12, 2026**
