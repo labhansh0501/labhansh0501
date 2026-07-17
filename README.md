@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-kohl-six-33.vercel.app/api?username=labhansh0501&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+  <!-- <img src="https://github-readme-stats-kohl-six-33.vercel.app/api?username=labhansh0501&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=labhansh0501&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
